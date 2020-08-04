@@ -1,0 +1,48 @@
+body {
+    background-color: pink;
+    padding-top: 100px;
+}
+table {
+    margin: auto;
+    background-color: #222;
+    width: 200px;
+    height: 300px;
+    text-align: center;
+    padding: 10px;
+}
+
+input,
+.operator,
+#clear {
+    left: 5px;
+    top: 5px;
+
+    color: #495069;
+    background-color: #fff;
+    width: 60px;
+    height: 50px;
+    float: left;
+    margin: 5px;
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+
+#display {
+    width: 280px;
+    font-size: 26px;
+    text-align: right;
+    background-color: white;
+    float: left;
+}
+.money {
+    left: 5px;
+    top: 5px;
+    color: #495069;
+    background-color: gold;
+    width: 60px;
+    height: 50px;
+    float: left;
+    margin: 5px;
+    font-size: 20px;
+    margin-bottom: 15px;
+}
